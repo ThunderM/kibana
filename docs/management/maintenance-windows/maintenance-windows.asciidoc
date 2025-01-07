@@ -33,7 +33,7 @@ For more details, refer to <<kibana-privileges>>.
 
 [discrete]
 [[manage-maintenance-windows]]
-== Create and manange maintenance windows
+== Create and manage maintenance windows
 
 In *Management > {stack-manage-app} > Maintenance Windows*, you can create, edit, and archive maintenance windows.
 
